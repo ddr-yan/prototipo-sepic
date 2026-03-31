@@ -24,13 +24,8 @@ Posteriormente se construye un prototipo en protoboard y se comparan los resulta
 - **/hardware/**  
   Esquemáticos y diseño del convertidor SEPIC.
 
-- **/calculos/**  
+- **/codigo/**  
   Desarrollo analítico y ecuaciones de diseño.
-
-- **/mediciones/**  
-  Capturas de osciloscopio y resultados experimentales.
-
----
 
 ## Arquitectura del sistema
 
